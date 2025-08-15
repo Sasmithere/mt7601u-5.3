@@ -31,7 +31,7 @@ on **PheonixOS** (My favourite 😭) currently deprecated
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/mt7601u-5.3.git
+   git clone https://github.com/Sasmithere/mt7601u-5.3.git
    cd mt7601u-5.3
    make main
 
